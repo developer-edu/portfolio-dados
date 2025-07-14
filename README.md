@@ -1,11 +1,26 @@
-#   Portfólio de Projetos em Ciência de Dados
+# 🧠 Portfólio de Estudos em Ciência de Dados
 
-Olá! Meu nome é Eduardo e estou em transição para a área de Dados.
-Este repositório é o registro da minha jornada rumo á vaga de **Analista de Dados** até dezembro de 2025.
+👋 Olá! Eu me chamo **Eduardo**, sou estudante de Ciência de Dados e estou em transição de carreira com o objetivo de atuar como **Analista de Dados**.
 
-Aqui você encontrará: 
-- Projetos práticos semanais em Python, SQL e Power BI
-- Análises exploratórias, dashboards e automações
-- Organização por semanas de estudo
+🎯 Este repositório é o registro da minha jornada prática de aprendizado entre julho e dezembro de 2025. Aqui você vai encontrar:
 
-Me acompanhe nessa jornada!
+## 📁 Estrutura
+- `semana-1/`
+  - `aula1-variaveis-e-entrada.ipynb`: Fundamentos de Python, entrada de dados e tipos
+  - `aula1-exercicios-python.ipynb`: Exercícios práticos de lógica, cálculo e manipulação
+
+## 📚 Tecnologias em uso
+- Python 3
+- Jupyter Notebook
+- Git & GitHub
+
+## 🚀 Objetivo
+Construir um portfólio profissional enquanto estudo os fundamentos da área, com foco total em:
+- Python
+- SQL
+- Power BI
+- Storytelling com dados
+
+> Me acompanhe nessa jornada no GitHub ou no LinkedIn!
+
+[🔗 Meu LinkedIn](https://www.linkedin.com/in/eduardo-gomes-151422240)
